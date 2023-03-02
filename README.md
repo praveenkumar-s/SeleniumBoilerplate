@@ -33,7 +33,7 @@
       ```
 ## Writing your test case:
 
-   *Test cases are part of the /src/main/demo/TestCases.java file.*
+   *Test cases are part of the /src/main/java/demo/TestCases.java file.*
    ### Defining new test case: 
    1. Open TestCases.java file
    2. Create a copy of the function testCase01()
